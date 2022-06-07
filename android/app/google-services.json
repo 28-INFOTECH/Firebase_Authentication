@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866440208939",
+    "project_id": "newborn-shop",
+    "storage_bucket": "newborn-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866440208939:android:3b272b3bc2eae009dfc06e",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866440208939-uhn7vc669c3t4la98691tb9rd7dss5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcTqHScpOLeHUKDCKAKiyQJbSS2Lj1PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866440208939-uhn7vc669c3t4la98691tb9rd7dss5n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
